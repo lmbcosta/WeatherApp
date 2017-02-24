@@ -14,7 +14,7 @@ let LAT = "lat="
 let LAT_VALUE = "\(Location.shredInstance.latitude!.rounded())"
 let LONG_VALUE = "\(Location.shredInstance.longitude!.rounded())"
 let LONG = "&lon="
-let API_KEY = "&appid=6305efe859a3861d4261de75c02756fe"
+let API_KEY = "&appid=YOUR_OWN_API_KEY"
 
 let NUM_DAYS = "&cnt=8"
 // Type alias create a kind of type
